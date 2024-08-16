@@ -4,7 +4,7 @@ dist/
 admin/assets/js/
 admin/assets/css/
 public/assets/css/
-public/assets/css/
+public/assets/js/
 
 # Compiled Java class files
 *.class
